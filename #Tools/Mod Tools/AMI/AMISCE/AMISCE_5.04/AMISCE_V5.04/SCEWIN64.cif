@@ -1,0 +1,12 @@
+<component>
+    name = "SCEWIN64"
+    category = eModule
+    LocalRoot = "RomUtils\SceWin\64\"
+    RefName = "SCEWIN64"
+[files]
+"AMI_Aptio_5.x_SCE_User_Guide_NDA.pdf"	
+"AMI_Aptio_SCE_Release_Notes_NDA.pdf"	
+"SCEWIN_64.exe"	
+"amifldrv64.sys"
+"amigendrv64.sys"	
+<endComponent>

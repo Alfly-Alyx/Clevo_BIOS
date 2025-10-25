@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <detectopt AVRDet="1" MCUDet="0" KB90Det="0" MWActiveDet="0" I2CActiveDet="0" MWPassiveDet="1" I2CPassiveDet="1" EEPromActiveDet="0" EEPromPassiveDet="1"/>
+  <locale lang="en"/>
+  <options hw="ch341_black" clear="1" skipff="1" unprot="1" verify="1" chipname="W25Q16FW" SPIExpert="0" ShowLinks="1" spi_speed="1_5Mhz" InitialDir="\\192.168.1.100\private$\" blankcheck="1" LoadLastDev="1" SaveFhistory="1"/>
+  <Windows DPI="120" Top="173" Left="248" LogH="107" Width="1106" Height="609"/>
+  <ChipHistory list="W25Q16FW [1.8V],W25N01GV [3.3V],F35SQA001G-WWT [3.3V]"/>
+  <FileHistory file0="\\192.168.1.100\private$\Clevo.RTX3080.16384.210205.rom"/>
+</settings>

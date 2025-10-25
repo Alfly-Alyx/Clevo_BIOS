@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <detectopt AVRDet="1" MCUDet="0" KB90Det="0" MWActiveDet="0" I2CActiveDet="0" MWPassiveDet="1" I2CPassiveDet="1" EEPromActiveDet="0" EEPromPassiveDet="1"/>
+  <locale lang="en"/>
+  <options hw="ch341_black" clear="1" skipff="1" unprot="1" verify="1" chipname="GD25Q10" SPIExpert="0" ShowLinks="1" spi_speed="1_5Mhz" InitialDir="C:\Users\Alexis\Desktop\" blankcheck="1" LoadLastDev="1" SaveFhistory="1"/>
+  <Windows DPI="120" Top="220" Left="427" LogH="107" Width="1106" Height="609"/>
+  <ChipHistory list="GD25Q10 [3.3V],CT1C08 [3.3V],GD25B64C [3.3V],MX25U8033E [1.8V],W25Q80BV [3.3V],W25Q80DV [3.3V],MX25L25735E [3.3V],W25Q16FW [1.8V],W25N01GV [3.3V],F35SQA001G-WWT [3.3V]"/>
+  <FileHistory file0="C:\Users\Alexis\Desktop\EC_P7xxTM-2nd_1.07.02.bin" file1="C:\Users\Alexis\Desktop\EC\Clevo ou Prema\ALL\EC1_0716\eP7xxTM1.716" file2="C:\Users\Alexis\Desktop\EC\XMG\EC_1.07.16NBC\Bios-XMG_ULTRA15_17_XUL15L17_XUL17L17_EC_1.07.16NBC\ECWinFlash\P7TM1716.NBC" file3="C:\Users\Alexis\Desktop\EC\Obsidian\Obsidian 1.07.27\bios\MEUPDATE.BIN" file4="C:\Users\Alexis\Desktop\backup bios P775.bin" file5="C:\Users\Alexis\Desktop\VBIOS\2080S\CheksumOK TDP modded\RTX2080S_ChecksumOK_IDNVidia_180W_215W.rom" file6="C:\Users\4L3X1S\Desktop\u70.bin" file7="C:\Users\4L3X1S\Desktop\U25.bin" file8="C:\Users\4L3X1S\Desktop\BIOS and EC flash for Z7R2\EC10704\X170KM-G.04" file9="C:\Users\4L3X1S\Desktop\BIOS and EC flash for Z7R2\BIOS10708\X170KM.08RTR2-G2"/>
+</settings>

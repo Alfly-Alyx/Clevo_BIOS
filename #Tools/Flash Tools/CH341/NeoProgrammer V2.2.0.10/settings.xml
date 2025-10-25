@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <detectopt AVRDet="1" MCUDet="0" KB90Det="0" MWActiveDet="0" I2CActiveDet="0" MWPassiveDet="1" I2CPassiveDet="1" EEPromActiveDet="0" EEPromPassiveDet="1"/>
+  <locale lang="en"/>
+  <options hw="ch341_black" clear="1" skipff="1" unprot="1" verify="1" chipname="GD25Q10" SPIExpert="0" ShowLinks="1" spi_speed="1_5Mhz" InitialDir="C:\Users\Alexis\Desktop\" blankcheck="1" LoadLastDev="1" SaveFhistory="1"/>
+  <Windows DPI="120" Top="162" Left="444" LogH="107" Width="1106" Height="609"/>
+  <ChipHistory list="GD25Q10 [3.3V],MX25L25735E [3.3V]"/>
+  <FileHistory file0="C:\Users\Alexis\Desktop\EC_P7xxTM-2nd_1.07.02.bin" file1="C:\Users\4L3X1S\Desktop\u70.bin" file2="C:\Users\4L3X1S\Desktop\Bios du X170\Firmware_XMG_ULTRA17_E21_XUL17E21_BIOS_1.07.09RTR\X170KM09RTR6\X170KM.09RTR6"/>
+</settings>
