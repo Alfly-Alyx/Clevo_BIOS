@@ -26,9 +26,3 @@
 | XMG | X170 | unknown |
 | Baked | P751 / P775 (P7xx) | unknown |
 | Baked | P870 | unknown |
-
----
-
-Notes:
-- « Fabricant » correspond au dossier / modder identifié (Dsanke, Obsidian, Prema, Eurocom, XMG, Baked).
-- Si tu veux les versions "internes" exactes extraites des binaires, je peux te fournir un script ou les commandes 7z/unzip à lancer localement pour lister/extraire les fichiers de version ; tu colles la sortie ici et je complète le tableau.
