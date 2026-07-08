@@ -1,0 +1,115 @@
+H110 Pro BTC+				asr0110v1
+H110M Combo-G				asr1110v2
+H110M-DGS				asr0110v1
+H110M-DGS R2.0				asr0110v1
+H110M-DGS R3.0				asr1100v3
+H110M-DGS/D3				asr0110v1
+H110M-DS/Hyper				asr0110v1
+H110M-DVP				asr1100v1
+H110M-DVS R2.0				asr1100v2
+H110M-DVS R3.0				asr1100v3
+H110M-DVS/D3				asr1100v1
+H110M-G/M.2				asr1110v3
+H110M-GL/D3				asr1000v1
+H110M-HDS				asr0110v1
+H110M-HDS R3.0				asr1100v3
+H110M-HDV				asr1110v1
+H110M-HDV R3.0				asr1110v4
+H110M-HDV/D3				asr1110v1
+H110M-HDVP				asr1110v1
+H110M-I					asr0110v1
+H110M-ITX				asr1110v1
+H110M-ITX/ac				asr1110v1
+H110M-ITX/D3				asr1110v1
+H110M-PIO				asr0100v1
+H110M-STX				asr1011v1
+H110TM-ITX				asr0110v2
+H110TM-ITX R2.0				asr1011v2
+B150 Combo				asr1110v1
+B150 Gaming K4				asr1110v3
+B150 Gaming K4/D3			asr1110v3
+B150 Gaming K4/Hyper			asr1110v1
+B150 Pro4/3.1				asr1110v3
+B150 Pro4/D3				asr1110v3
+B150A-X1				asr1110v3
+B150A-X1/Hyper				asr1110v1
+B150M Combo-G				asr1110v2
+B150M Pro4				asr1110v1
+B150M Pro4/D3				asr1110v1
+B150M Pro4/Hyper			asr1110v1
+B150M Pro4S				asr1110v1
+B150M Pro4S/D3				asr1110v1
+B150M Pro4V				asr1110v1
+B150M-DVS R2.0				asr0110v1
+B150M-HDS				asr0110v1
+B150M-HDV				asr1110v1
+B150M-HDV/D3				asr1110v1
+B150M-ITX				asr1110v1
+B150M-ITX/D3				asr1110v1
+B150M-PIO				asr0100v1
+B150M-PIO2				asr1010v1
+H170 Combo				asr1110v1
+H170 Performance			asr1110v3
+H170 Performance/D3			asr1110v3
+H170 Performance/Hyper			asr0110v3
+H170 Pro4				asr1110v1
+H170 Pro4/D3				asr1110v3
+H170 Pro4/Hyper				asr0110v3
+H170 Pro4S				asr1110v1
+H170M Pro4				asr1111v1
+H170M Pro4S				asr1111v1
+H170M-ITX/ac				asr1110v1
+H170M-ITX/DL				asr1110v1
+H170A-X1				asr1110v3
+H170A-X1/3.1				asr1110v3
+E3V5 Performance Gaming/OC		asr0110v3
+E3V5 WS					asr1110v3
+Q170M vPro				asr1110v5
+Q170M vPro+				asr1110v3
+Z170 Extreme3				asr1110v1
+Z170 Extreme4				asr0110v3
+Z170 Extreme4+				asr0110v3
+Z170 Extreme6				asr0110v3
+Z170 Extreme6+				asr0110v3
+Z170 Extreme7+				asr0110v3
+Z170 Gaming K4				asr1110v3
+Z170 Gaming K4/D3			asr1110v3
+Z170 Gaming K6				asr0110v3
+Z170 Gaming K6+				asr0110v3
+Z170 Gaming-ITX/ac			asr0021v1
+Z170 OC Formula				asr0011v1
+Z170 Pro4				asr0110v3
+Z170 Pro4S				asr0110v3
+Z170 Pro4/D3				asr1110v3
+Z170 Professional Gaming i7		asr0110v3
+Z170A-X1				asr1110v3
+Z170A-X1/3.1				asr1110v3
+Z170M Extreme4				asr1110v3
+Z170M OC Formula			asr0011v1
+Z170M Pro4				asr1110v1
+Z170M Pro4S				asr1110v1
+Z170M-ITX/ac				asr1110v1
+Z170M-PIO2				asr1010v1
+B250 Gaming K4				asr1110v5
+B250 Pro4				asr1110v5
+B250M Performance			asr1110v5
+B250M Pro4				asr1110v5
+B250M-HDV				asr1110v3
+H270 Performance			asr1110v5
+H270 Pro4				asr1110v5
+H270M Performance			asr1110v5
+H270M Pro4				asr1110v5
+H270M-ITX/ac				asr0120v1
+Z270 Extreme4				asr1110v3
+Z270 Gaming K4				asr1110v5
+Z270 Gaming K6				asr1110v3
+Z270 Gaming-ITX/ac			asr0011v3
+Z270 Killer SLI				asr0110v4
+Z270 Killer SLI/ac			asr0110v4
+Z270 Pro4				asr1110v5
+Z270 Professional Gaming i7		asr0011v2
+Z270 SuperCarrier			asr0011v4
+Z270 Taichi				asr0011v2
+Z270M Extreme4				asr1110v3
+Z270M Pro4				asr1110v5
+Z270M-ITX/ac				asr0120v1

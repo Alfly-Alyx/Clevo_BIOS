@@ -1,0 +1,6 @@
+External (_SB_.PCI0.GFX0.DD1F._BCM, MethodObj, 1)
+External (_SB_.PCI0.LPCB.H_EC.ECMD, MethodObj, 1)
+External (_SB_.PCI0.LPCB.H_EC.ECRD, MethodObj, 1)
+External (_SB_.PCI0.LPCB.H_EC.ECWT, MethodObj, 2)
+External (P8XH, MethodObj, 2)
+External (PWRS, MethodObj, 0)
