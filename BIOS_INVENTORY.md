@@ -1,7 +1,5 @@
 # Inventaire BIOS — Fabricant / Modèle / Version
 
-Les versions sont inférées depuis les noms de fichiers et normalisées (ex. 0506 → 1.05.06). Quand la version n'était pas indiquée dans le nom, elle est marquée « unknown ». Les labels non numériques (ex. HP6, EP6, TEI2) sont conservés tels quels.
-
 | Fabricant | Modèle | Version |
 |-----------|--------|---------|
 | Dsanke | N9xKP | 1.05.06 |
