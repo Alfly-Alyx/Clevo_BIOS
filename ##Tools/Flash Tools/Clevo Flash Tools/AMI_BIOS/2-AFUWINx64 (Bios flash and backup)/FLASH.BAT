@@ -1,0 +1,1 @@
+AFUWINx64.EXE Name_of_your_file /P /B /N /X /REBOOT

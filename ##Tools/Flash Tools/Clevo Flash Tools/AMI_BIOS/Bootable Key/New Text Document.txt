@@ -1,0 +1,7 @@
+Format the flash drive via Rufus in FreeDOS, and upload the contents of the archive to the root of the flash drive
+1) Boot into the BIOS, in the Security section, disable Secure Boot (disabled by default)
+2) Boot from a flash drive in UEFI mode, enter the meset command (the fans will work at 100% and the laptop will reboot)
+3) Boot again from the flash drive, enter the fpt -d backup.bin command to save the current BIOS to backup.bin
+4 TM) Enter the fpt -f p751tm0511.bin -rewrite -y command, or fpt -f p751tm0729.bin -rewrite -y   FOR RTX videocards, wait for the end of the process (erasing, flashing, verification) 
+      and enter the fpt -greset command (the laptop will reboot with clearing CMOS)
+5) To roll back to the previous BIOS, repeat steps 2 and 4, changing the command to fpt -f backup.bin -rewrite -y

@@ -1,0 +1,2 @@
+1- Edit FLASH.BAT to update the bios name file
+2- Launch FLASH.BAT as administrateur

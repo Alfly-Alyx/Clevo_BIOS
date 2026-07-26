@@ -1,0 +1,1 @@
+Run BACKUPWIN.exe to make a backup of your current BIOS.
