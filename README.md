@@ -19,9 +19,6 @@ BIOS Database — Manufacturer / Model / Version
 
 | Manufacturer | Model | Version |
 |-----------|--------|---------|
-| Baked | P751TM/P775TM | unknown |
-| Baked | P870DM | unknown |
-| Baked | P870TM | unknown |
 | Dsanke | N9xKP | 1.05.06 |
 | Dsanke | N9xKP | 1.07.12 |
 | Dsanke | N9xTP | 1.05.06 |
