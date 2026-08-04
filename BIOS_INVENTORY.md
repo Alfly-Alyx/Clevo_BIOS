@@ -45,6 +45,7 @@ BIOS Database — Manufacturer / Model / Version
 | Obsidian | P870KM | unknown |
 | Prema | P370 | unknown |
 | Prema | P751DM/P775DM | 1.06.05EC |
+| Prema | X170SM-G | 1.07.ELUK1 (RTX3080 ready) |
 | XMG | X170 | unknown |
 | XMG | P751DM/P775DM | 1.06.11 |
 | XMG | P751TM/P775TM | 1.07.28RTR |
