@@ -9,9 +9,8 @@ Feel free to share and upload any missing BIOS files you may have to contribute 
 
 Thanks and happy flashing!
 
-I am looking for **Prema BIOS** for the **P7xxx** and **P870xx** series, as well as an **unlocked BIOS** for the **X170SM** and **X170KM**.
-Any BIOS other than the stock Clevo BIOS is welcome. Feel free to submit a pull request to help update the database.
-I am also looking for Bios that allow unofficial GPU for P7xx, P870xx and X170xx.
+Any BIOS other than the stock Clevo BIOS is welcome, especially one that supports unofficial GPUs. Feel free to submit a pull request to help update the database.
+
 
 
 
@@ -25,16 +24,16 @@ BIOS Database — Manufacturer / Model / Version
 | Dsanke | N9xTP | 1.07.12 |
 | Dsanke | P6XHX | 1.05.13TEI2 |
 | Dsanke | P370EM | 1.08.09 |
-| Dsanke | P751DM/P775DM | 1.05.11 (9900K ready) |
-| Dsanke | P751DM/P775DM | 1.07.29 (9900K ready) |
-| Dsanke | P751TM/P775TM | 1.07.24 |
-| Dsanke | P751TM/P775TM | 1.07.29 (9900K ready) |
-| Dsanke | P751TM/P775TM | 1.07.29 (9900K & RTX3080 ready) |
-| Dsanke | P870KM | 1.05.11 (9900K ready) |
-| Dsanke | P870KM | 1.07.16 (9900K ready) |
-| Dsanke | P870TM | 1.05.11 (9900K ready) |
-| Dsanke | P870TM | 1.07.15 (9900K ready) |
-| Dsanke | P870TM | 1.07.16 (9900K ready) |
+| Dsanke | P751DM/P775DM | 1.05.11 (9900KS ready) |
+| Dsanke | P751DM/P775DM | 1.07.29 (9900KS ready) |
+| Dsanke | P751TM/P775TM | 1.07.24 (9900KS ready) |
+| Dsanke | P751TM/P775TM | 1.07.29 (9900KS ready) |
+| Dsanke | P751TM/P775TM | 1.07.29 (9900KS & RTX3080 ready) |
+| Dsanke | P870KM | 1.05.11 (9900KS ready) |
+| Dsanke | P870KM | 1.07.16 (9900KS ready) |
+| Dsanke | P870TM | 1.05.11 (9900KS ready) |
+| Dsanke | P870TM | 1.07.15 (9900KS ready) |
+| Dsanke | P870TM | 1.07.16 (9900KS ready) |
 | Eurocom (Not Prema) | X170KM | unknown |
 | Eurocom (Not Prema) | P751TM/P775TM | 1.07.27 |
 | Obsidian | N130 | unknown |
