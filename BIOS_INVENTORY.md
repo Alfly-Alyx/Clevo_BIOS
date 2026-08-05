@@ -2,9 +2,6 @@ BIOS Database — Manufacturer / Model / Version
 
 | Manufacturer | Model | Version |
 |-----------|--------|---------|
-| Baked | P751TM/P775TM | unknown |
-| Baked | P870DM | unknown |
-| Baked | P870TM | unknown |
 | Dsanke | N9xKP | 1.05.06 |
 | Dsanke | N9xKP | 1.07.12 |
 | Dsanke | N9xTP | 1.05.06 |
@@ -13,7 +10,7 @@ BIOS Database — Manufacturer / Model / Version
 | Dsanke | P370EM | 1.08.09 |
 | Dsanke | P751DM/P775DM | 1.05.11 (9900K ready) |
 | Dsanke | P751DM/P775DM | 1.07.29 (9900K ready) |
-| Dsanke | P751TM/P775TM | 1.07.24 |
+| Dsanke | P751TM/P775TM | 1.07.24 (9900K ready) |
 | Dsanke | P751TM/P775TM | 1.07.29 (9900K ready) |
 | Dsanke | P751TM/P775TM | 1.07.29 (9900K & RTX3080 ready) |
 | Dsanke | P870KM | 1.05.11 (9900K ready) |
