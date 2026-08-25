@@ -9,8 +9,8 @@ Feel free to share and upload any missing BIOS files you may have to contribute 
 
 Thanks and happy flashing!
 
-I am looking for PremaBios for P7xxxx and P870xx series, and unlocked bios for X170SM/KM.
-I am also looking for Bios that allow unofficial GPU for P7xx, P870xx and X170xx.
+Any BIOS other than the stock Clevo BIOS is welcome, especially one that supports unofficial GPUs. Feel free to submit a pull request to help update the database.
+
 
 
 
@@ -18,25 +18,22 @@ BIOS Database — Manufacturer / Model / Version
 
 | Manufacturer | Model | Version |
 |-----------|--------|---------|
-| Baked | P751TM/P775TM | unknown |
-| Baked | P870DM | unknown |
-| Baked | P870TM | unknown |
 | Dsanke | N9xKP | 1.05.06 |
 | Dsanke | N9xKP | 1.07.12 |
 | Dsanke | N9xTP | 1.05.06 |
 | Dsanke | N9xTP | 1.07.12 |
 | Dsanke | P6XHX | 1.05.13TEI2 |
 | Dsanke | P370EM | 1.08.09 |
-| Dsanke | P751DM/P775DM | 1.05.11 (9900K ready) |
-| Dsanke | P751DM/P775DM | 1.07.29 (9900K ready) |
-| Dsanke | P751TM/P775TM | 1.07.24 |
-| Dsanke | P751TM/P775TM | 1.07.29 (9900K ready) |
-| Dsanke | P751TM/P775TM | 1.07.29 (9900K & RTX3080 ready) |
-| Dsanke | P870KM | 1.05.11 (9900K ready) |
-| Dsanke | P870KM | 1.07.16 (9900K ready) |
-| Dsanke | P870TM | 1.05.11 (9900K ready) |
-| Dsanke | P870TM | 1.07.15 (9900K ready) |
-| Dsanke | P870TM | 1.07.16 (9900K ready) |
+| Dsanke | P751DM/P775DM | 1.05.11 (9900KS ready) |
+| Dsanke | P751DM/P775DM | 1.07.29 (9900KS ready) |
+| Dsanke | P751TM/P775TM | 1.07.24 (9900KS ready) |
+| Dsanke | P751TM/P775TM | 1.07.29 (9900KS ready) |
+| Dsanke | P751TM/P775TM | 1.07.29 (9900KS & RTX3080 ready) |
+| Dsanke | P870KM | 1.05.11 (9900KS ready) |
+| Dsanke | P870KM | 1.07.16 (9900KS ready) |
+| Dsanke | P870TM | 1.05.11 (9900KS ready) |
+| Dsanke | P870TM | 1.07.15 (9900KS ready) |
+| Dsanke | P870TM | 1.07.16 (9900KS ready) |
 | Eurocom (Not Prema) | X170KM | unknown |
 | Eurocom (Not Prema) | P751TM/P775TM | 1.07.27 |
 | Obsidian | N130 | unknown |
@@ -61,6 +58,7 @@ BIOS Database — Manufacturer / Model / Version
 | Obsidian | P870KM | unknown |
 | Prema | P370 | unknown |
 | Prema | P751DM/P775DM | 1.06.05EC |
+| Prema | X170SM-G | 1.07.ELUK1 (RTX3080 ready) |
 | XMG | X170 | unknown |
 | XMG | P751DM/P775DM | 1.06.11 |
 | XMG | P751TM/P775TM | 1.07.28RTR |
