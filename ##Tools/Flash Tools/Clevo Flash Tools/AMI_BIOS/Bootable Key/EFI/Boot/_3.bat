@@ -45,6 +45,6 @@ if '%1'=='ELEV' (del "%vbsGetPrivileges%" 1>nul 2>nul  &  shift /1)
 ::START
 ::::::::::::::::::::::::::::
 cd /d "%~dp0"
-fptw.exe -f BIOS.BIN -rewrite -y
+fptw.exe -f BIOS.ROM -rewrite -y
 echo Done.Press any key to exit.
 pause>nul

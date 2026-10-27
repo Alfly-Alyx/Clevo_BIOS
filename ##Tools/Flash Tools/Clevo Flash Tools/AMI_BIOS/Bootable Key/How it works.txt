@@ -1,0 +1,14 @@
+Format the flash drive via Rufus in FreeDOS, and upload the contents of the archive to the root of the flash drive
+
+Place your new bios, and name it "bios.rom"
+
+1) Boot into the BIOS, in the Security section, disable Secure Boot.
+2) Boot from the flash drive into the UEFI Shell, enter the "meset" command (the fans will spin at 100% and the laptop will reboot. This unlocks the write access to all flash regions until the next full shutdown).
+3) Boot again from the flash drive into the UEFI Shell, enter the "fpt -d backup.bin" command to save the current full BIOS.
+4) Enter the flashing command:
+   -> To flash EVERYTHING (including ME and GbE): "fpt -f bios.rom -rewrite -y" (Requires step 2 to be successful)
+   -> To flash ONLY the BIOS region: "fpt -f bios.rom -bios -y" (Safer, preserves your MAC address)
+   Wait for the end of the process (erasing, flashing, verification).
+5) Enter the "fpt -greset" command (the laptop will reboot and global reset/CMOS clear will be performed).
+
+<) To roll back to the previous BIOS, repeat steps 2, 3 and 4, changing the command to "fpt -f backup.bin -rewrite -y".
